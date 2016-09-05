@@ -1,7 +1,7 @@
 {
   "name": "media-query",
   "version": "1.0.0",
-  "description": "query for media screen resolution",
+  "description": "query for screen resolution",
   "main": "lib/MediaQuery.js",
   "scripts": {
     "build": "babel src -d lib",
